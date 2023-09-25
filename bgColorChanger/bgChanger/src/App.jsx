@@ -6,7 +6,7 @@ function App() {
     <div style={{backgroundColor:color, width:'100vw', height:'100vh'}}>
       <div style={{backgroundColor:'white', display:'flex',alignItems:'center'}}>
         <button onClick={()=>setColor('red')}>RED</button>
-        <button onClick={()=>setColor('blue')}>BLUE</button>
+        <button onClick={()=>setColor('purple')}>PURPLE</button>
         <button onClick={()=>setColor('lavender')}>LAVENDER</button>
       </div>
     </div>
